@@ -1,5 +1,4 @@
 chatbase
-aiohttp
 beautifulsoup4
 hachoir
 numpy
@@ -15,3 +14,6 @@ google-auth-oauthlib>=0.4.1,<0.10.0
 tenacity>=6.0.0
 python-magic
 appdirs
+Flask==2.2.2
+gunicorn==20.1.0
+aiohttp==3.8.1
